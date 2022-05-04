@@ -1,0 +1,15 @@
+<xml>
+     <preferences>
+             <film> matrix </film>
+             <series> the magnificent century </series>
+     </preferences>
+               <food>
+                   <breakfast> omelette </breakfast>
+                   <lunch> borsch </lunch>
+                   <dinner> salad </dinner>
+               </food>
+        <preferences>
+                <season> autumn </seans>
+                <travel> Tibet </travel>
+        </preferences>
+</xml>
