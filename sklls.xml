@@ -1,9 +1,21 @@
 
 
-<quality>
-	<p1> atentiveness </p1>
-	<p2>	perseverance </p2>
-	<p3> learnability </p3>
-</quality>
+<skill>
+
+
+
+	<p1>Что такое тестирование</p1> 
+	<p2>Git система контроля версий</p2>
+	<p3> JavaScript</p3>
+	<p4>Postman </p4>
+	<p5>Основы SQL</p5>
+	<6>JSON XML Их структура </p6>
+        <7>Jmeter </p7>
+        <8> Тестирование API<p8>
+	<p9>Мобильное тестирование</p9>
+	<p10> Dev Tools веб браузеров</p10>
+	<p11>Структура запросов и ответов на сервер</p11> 
+
+</skill>
 
 
